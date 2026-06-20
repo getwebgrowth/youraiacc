@@ -23,8 +23,8 @@ export function BottomSections({ onOpenCart }: { onOpenCart: () => void }) {
       {/* Red Bottom CTA Banner */}
       <div className="container mx-auto px-4 md:px-6 pb-24">
         <div className="bg-rose-500 rounded-[3rem] p-12 text-center text-white space-y-6 shadow-2xl shadow-rose-200">
-           <h3 className="text-xl font-black uppercase italic tracking-tighter">youraipartner</h3>
-           <p className="text-sm font-bold uppercase italic opacity-80">Official Google price $20.00 / month vs youraipartner special $1.39 / month</p>
+           <h3 className="text-xl font-black uppercase italic tracking-tighter">youraiacc</h3>
+           <p className="text-sm font-bold uppercase italic opacity-80">Official Google price $20.00 / month vs youraiacc special $1.39 / month</p>
            <div className="text-4xl font-black uppercase italic tracking-tighter mb-4">SAVE OVER $334 TODAY</div>
            <button 
              onClick={onOpenCart}

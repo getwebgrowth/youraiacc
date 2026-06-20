@@ -10,7 +10,7 @@ export function Navbar({ onOpenCart }: { onOpenCart: () => void }) {
         <div className="flex items-center gap-6 sm:gap-12 min-w-0 flex-1">
           <Link href="/" className="flex items-center gap-2 flex-shrink-0">
             <span className="text-lg sm:text-xl font-black italic tracking-tighter text-rose-500 whitespace-nowrap">
-              youraipartner
+              youraiacc
             </span>
           </Link>
           <div className="hidden lg:flex items-center gap-8 text-[13px] font-black uppercase italic text-neutral-400">

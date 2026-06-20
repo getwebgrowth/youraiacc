@@ -16,67 +16,62 @@ export function PricingComparison() {
     {
       feature: "Gemini Pro Access",
       official: true,
-      youraipartner: true
     },
     {
       feature: "Gemini 3.1 Flash Model",
       official: true,
-      youraipartner: true
     },
     {
       feature: "Nano Banana 2 (Image Gen)",
       official: true,
-      youraipartner: true
     },
     {
       feature: "Veo Video Creation",
       official: true,
-      youraipartner: true
     },
     {
       feature: "Google Search Integration",
       official: true,
-      youraipartner: true
     },
     {
       feature: "5TB Google One Storage",
       official: true,
-      youraipartner: true
+
     },
     {
       feature: "Private Personal Account",
       official: true,
-      youraipartner: true
+
     },
     {
       feature: "Custom Gems",
       official: true,
-      youraipartner: true
+
     },
     {
       feature: "Antigravity Workspace",
       official: true,
-      youraipartner: true
+
     },
     {
       feature: "Family Sharing (5 members)",
       official: true,
-      youraipartner: true
+
     },
     {
       feature: "24/7 Support",
       official: false,
-      youraipartner: true
+
     },
     {
       feature: "Full Warranty",
       official: false,
-      youraipartner: true
+
     },
     {
       feature: "Instant Activation",
       official: false,
-      youraipartner: true
+
     }
   ];
 
@@ -122,7 +117,7 @@ export function PricingComparison() {
             </div>
           </motion.div>
 
-          {/* YourAIPartner */}
+          {/* YourAIAcc */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -135,7 +130,7 @@ export function PricingComparison() {
             </div>
 
             <h3 className="text-xl font-black text-neutral-900 uppercase italic tracking-tight mb-2">
-              YourAIPartner
+              YourAIAcc
             </h3>
             <p className="text-sm text-rose-600 font-bold mb-6">Limited Time Offer</p>
             
@@ -177,7 +172,7 @@ export function PricingComparison() {
                   Google
                 </th>
                 <th className="px-6 py-4 text-center text-sm font-black text-rose-600 uppercase italic tracking-tight">
-                  YourAIPartner
+                  YourAIAcc
                 </th>
               </tr>
             </thead>
