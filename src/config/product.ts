@@ -1,7 +1,7 @@
 export const siteConfig = {
-  name: "youraiacc",
+  name: "DIGIBRO",
   description: "Buy Google Gemini Pro subscription for $25 (18 months). Official account on your own Gmail. Instant activation, 92% savings vs Google.",
-  url: "https://youraiacc.com",
+  url: "https://digibro.com",
 };
 
 export const productData = {
@@ -108,7 +108,7 @@ export const productData = {
     telegram: "https://t.me/minioncapital",
     paypal: "",
     nowpayments: "https://nowpayments.io/payment/?iid=6229617258&source=button",
-    contactEmail: "support@youraiacc.com",
+    contactEmail: "support@digibro.com",
   },
   relatedProducts: [
     { name: "Gama", price: 11.99, icon: "bg-indigo-500" },

@@ -117,7 +117,7 @@ export function PricingComparison() {
             </div>
           </motion.div>
 
-          {/* YourAIAcc */}
+          {/* DIGIBRO */}
           <motion.div
             initial={{ opacity: 0, y: 20 }}
             whileInView={{ opacity: 1, y: 0 }}
@@ -130,7 +130,7 @@ export function PricingComparison() {
             </div>
 
             <h3 className="text-xl font-black text-neutral-900 uppercase italic tracking-tight mb-2">
-              YourAIAcc
+              DIGIBRO
             </h3>
             <p className="text-sm text-rose-600 font-bold mb-6">Limited Time Offer</p>
             
@@ -172,7 +172,7 @@ export function PricingComparison() {
                   Google
                 </th>
                 <th className="px-6 py-4 text-center text-sm font-black text-rose-600 uppercase italic tracking-tight">
-                  YourAIAcc
+                  DIGIBRO
                 </th>
               </tr>
             </thead>
